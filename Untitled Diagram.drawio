@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T19:14:16.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" version="18.1.3" etag="pG6WfysfJ3ln5bw8LlLx" type="github"><diagram id="MRJRcy6MOMC9o1yr25aC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-02T20:52:34.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="XMGrrRlWRRlJ5lzR8QrF" version="18.1.3" type="github">
+  <diagram id="MRJRcy6MOMC9o1yr25aC" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QMPzKmdNtREgFusveCCo-1" value="物品照片 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="200" width="230" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-7" value="物品照片 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="610" width="230" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-9" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;物品照片 4&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="610" width="230" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-10" value="物品描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="480" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-12" value="物品价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-23" value="物品描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-27" value="&lt;font color=&quot;#ff00ff&quot;&gt;联系卖家&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="510" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-29" value="物品价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="920" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-30" value="物品价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="920" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-31" value="物品价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-35" value="物品描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="890" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-36" value="物品描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="890" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-38" value="网址 https://www.laiused.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="10" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-41" value="&lt;font color=&quot;#ff00ff&quot;&gt;联系卖家&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="920" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-42" value="&lt;font color=&quot;#ff00ff&quot;&gt;联系卖家&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="920" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-43" value="&lt;font color=&quot;#ff00ff&quot;&gt;联系卖家&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="510" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-44" value="上传物品照片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="230" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-45" value="上传物品描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="480" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-46" value="上传物品价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-47" value="&lt;font color=&quot;#ff0000&quot;&gt;物品下架&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="510" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-48" value="&lt;font color=&quot;#000000&quot;&gt;距离显示 Cape Girardeau 40 英里&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF00FF;" vertex="1" parent="1">
+          <mxGeometry x="321" y="100" width="189" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-54" value="账号：&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="660" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-55" value="密码：&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="660" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-56" value="注册账号" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="660" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-57" value="上传物品照片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="610" width="230" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-58" value="上传物品描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="890" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-59" value="上传物品价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="551" y="920" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-61" value="&lt;font color=&quot;#ff0000&quot;&gt;物品下架&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="920" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-65" value="卖家区" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="150" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-66" value="&lt;span style=&quot;&quot;&gt;买家区&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontColor=#FF00FF;" vertex="1" parent="1">
+          <mxGeometry y="150" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-67" value="&lt;b&gt;&lt;font color=&quot;#0000cc&quot; style=&quot;font-size: 24px;&quot;&gt;来&lt;/font&gt;&lt;/b&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FF00FF;" vertex="1" parent="1">
+          <mxGeometry y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QMPzKmdNtREgFusveCCo-69" value="&lt;b&gt;&lt;i&gt;used&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=24;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="60" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
